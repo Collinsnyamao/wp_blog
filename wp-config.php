@@ -23,7 +23,7 @@
 define( 'DB_NAME', 'wordpress' );
 
 /** MySQL database username */
-define( 'DB_USER', 'collinsnyamao' );
+define( 'DB_USER', 'root' );
 
 /** MySQL database password */
 define( 'DB_PASSWORD', 'a11Black$' );
@@ -78,7 +78,7 @@ $table_prefix = 'wp1_';
  * @link https://codex.wordpress.org/Debugging_in_WordPress
  */
 define( 'WP_DEBUG', false );
-
+@ini_set('upload_max_size' , '256M' );
 /* That's all, stop editing! Happy publishing. */
 
 /** Absolute path to the WordPress directory. */

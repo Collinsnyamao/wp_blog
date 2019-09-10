@@ -1,0 +1,132 @@
+[2019-09-05 16:25:09]
+{"176-inherit":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":685},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-05 16:25:09]
+{"176-inherit":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":685},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"154-trash":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":690},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-05 16:25:09]
+{"176-inherit":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":685},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"154-trash":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":690},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"177-inherit":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":685},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-05 16:25:09]
+{"176-inherit":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":685},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"154-trash":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":690},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"177-inherit":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":685},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"163-trash":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":690},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-05 16:26:27]
+{"178-inherit":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":640},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-05 16:26:27]
+{"178-inherit":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":640},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"131-publish":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":640},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-05 16:27:30]
+{"179-inherit":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":685},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-05 16:27:30]
+{"179-inherit":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":685},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"156-trash":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":690},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-05 16:27:30]
+{"179-inherit":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":685},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"156-trash":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":690},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"180-inherit":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":685},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-05 16:27:30]
+{"179-inherit":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":685},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"156-trash":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":690},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"180-inherit":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":685},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"167-trash":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":690},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-05 16:27:30]
+{"179-inherit":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":685},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"156-trash":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":690},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"180-inherit":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":685},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"167-trash":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":690},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"181-inherit":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":685},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-05 16:27:30]
+{"179-inherit":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":685},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"156-trash":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":690},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"180-inherit":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":685},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"167-trash":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":690},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"181-inherit":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":685},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"161-trash":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":690},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-05 16:27:30]
+{"179-inherit":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":685},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"156-trash":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":690},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"180-inherit":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":685},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"167-trash":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":690},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"181-inherit":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":685},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"161-trash":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":690},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"182-inherit":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":685},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-05 16:27:30]
+{"179-inherit":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":685},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"156-trash":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":690},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"180-inherit":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":685},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"167-trash":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":690},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"181-inherit":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":685},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"161-trash":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":690},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"182-inherit":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":685},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"116-trash":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":690},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-05 16:27:30]
+{"179-inherit":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":685},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"156-trash":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":690},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"180-inherit":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":685},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"167-trash":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":690},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"181-inherit":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":685},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"161-trash":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":690},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"182-inherit":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":685},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"116-trash":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":690},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"183-inherit":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":685},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-05 16:27:30]
+{"179-inherit":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":685},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"156-trash":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":690},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"180-inherit":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":685},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"167-trash":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":690},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"181-inherit":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":685},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"161-trash":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":690},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"182-inherit":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":685},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"116-trash":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":690},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"183-inherit":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":685},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"165-trash":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":690},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-05 16:28:06]
+{"184-inherit":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":685},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-05 16:28:06]
+{"184-inherit":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":685},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"152-trash":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":690},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-05 16:28:54]
+{"185-inherit":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":685},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-05 16:28:54]
+{"185-inherit":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":685},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"150-trash":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":690},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-05 16:34:05]
+{"112-publish":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":640},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-06 10:22:07]
+{"186-auto-draft":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":690},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-06 10:23:34]
+{"187-publish":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-06 10:23:34]
+{"187-publish":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"188-inherit":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-06 10:23:34]
+{"187-publish":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"188-inherit":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"186-publish":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-06 10:24:10]
+{"186-publish":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":659},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-06 10:41:06]
+{"190-draft":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"rules","apply":true},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-06 10:41:06]
+{"190-draft":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"rules","apply":true},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"191-inherit":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":685},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-06 10:41:06]
+{"190-draft":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"rules","apply":true},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"191-inherit":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":685},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"190-publish":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"rules","apply":true},{"hook":"image_source","send_image":"on","has_image":false,"send_by_url":true,"source":""},{"hook":"finish","ok":true,"processed":[190]},{"hook":"after","result":{"@collinsnyamao":[{}]}}]}
+
+[2019-09-06 10:42:09]
+{"190-publish":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-06 10:42:10]
+{"190-publish":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406},{"hook":"before","trigger":"wp_rest_post"},{"hook":"rules","apply":true},{"hook":"image_source","send_image":"on","has_image":true,"send_by_url":true,"source":"http:\/\/157.230.233.236\/wp-content\/uploads\/2019\/09\/joanna-nix-AteF4SIV_Uo-unsplash.jpg"},{"hook":"finish","ok":true,"processed":[190]},{"hook":"after","result":{"@collinsnyamao":[{},{}]}}]}
+
+[2019-09-06 10:42:10]
+{"190-publish":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":674},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-06 10:45:40]
+{"102-publish":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":640},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-06 10:49:36]
+{"193-auto-draft":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":690},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-06 10:51:45]
+{"194-inherit":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-06 10:51:45]
+{"194-inherit":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"193-publish":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-06 10:51:53]
+{"193-publish":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"rules","apply":true},{"hook":"image_source","send_image":"on","has_image":true,"send_by_url":true,"source":"http:\/\/157.230.233.236\/wp-content\/uploads\/2019\/09\/1*646YQYQwIAVI5hFvgPaclg-2.jpeg"},{"hook":"finish","ok":true,"processed":[193]},{"hook":"after","result":{"@collinsnyamao":[{},{}]}}]}
+
+[2019-09-06 11:45:01]
+{"195-trash":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":690},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-06 11:45:01]
+{"195-trash":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":690},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"195-publish":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":712},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-06 11:45:44]
+{"196-trash":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":690},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-06 11:45:44]
+{"196-trash":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":690},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"196-publish":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":712},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-06 13:11:31]
+{"197-inherit":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":640},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-06 13:11:31]
+{"197-inherit":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":640},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}],"131-publish":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":640},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+
+[2019-09-10 10:52:19]
+{"198-auto-draft":[{"hook":"before","trigger":"wp_insert_post"},{"hook":"sv","validity":690},{"hook":"finish","ok":false,"processed":[]},{"hook":"after","result":406}]}
+

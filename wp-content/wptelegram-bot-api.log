@@ -1,0 +1,66 @@
+[2019-09-05 16:35:34]
+Method: getChatMembersCount
+Params: {"chat_id":"@venuspress_bot"}
+--------------------------------
+Response: {"ok":false,"error_code":400,"description":"Bad Request: chat not found"}
+
+[2019-09-05 16:35:36]
+Method: sendMessage
+Params: {"chat_id":"@venuspress_bot","text":"This is a test message"}
+--------------------------------
+Response: {"ok":false,"error_code":400,"description":"Bad Request: chat not found"}
+
+[2019-09-05 16:35:53]
+Method: getChatMembersCount
+Params: {"chat_id":"@Venuspress_bot"}
+--------------------------------
+Response: {"ok":false,"error_code":400,"description":"Bad Request: chat not found"}
+
+[2019-09-05 16:35:54]
+Method: sendMessage
+Params: {"chat_id":"@Venuspress_bot","text":"This is a test message"}
+--------------------------------
+Response: {"ok":false,"error_code":400,"description":"Bad Request: chat not found"}
+
+[2019-09-05 16:36:29]
+Method: getChatMembersCount
+Params: {"chat_id":"@collinsnyamao"}
+--------------------------------
+Response: {"ok":false,"error_code":400,"description":"Bad Request: chat not found"}
+
+[2019-09-05 16:36:30]
+Method: sendMessage
+Params: {"chat_id":"@collinsnyamao","text":"This is a test message"}
+--------------------------------
+Response: {"ok":false,"error_code":400,"description":"Bad Request: chat not found"}
+
+[2019-09-06 10:41:06]
+Method: sendMessage
+Params: {"parse_mode":null,"disable_notification":false,"disable_web_page_preview":false,"text":"Defined by a fall\r\n\r\nwe\u2019re often defined by our best and worst moments\u2026 almost equally\u2026. almost.\r\n\r\nhttp:\/\/157.230.233.236\/index.php\/2019\/09\/06\/defined-by-a-fall\/","chat_id":"@collinsnyamao"}
+--------------------------------
+Response: {"ok":false,"error_code":400,"description":"Bad Request: chat not found"}
+
+[2019-09-06 10:42:10]
+Method: sendPhoto
+Params: {"parse_mode":null,"disable_notification":false,"photo":"http:\/\/157.230.233.236\/wp-content\/uploads\/2019\/09\/joanna-nix-AteF4SIV_Uo-unsplash.jpg","caption":"","chat_id":"@collinsnyamao"}
+--------------------------------
+Response: {"ok":false,"error_code":400,"description":"Bad Request: chat not found"}
+
+[2019-09-06 10:42:10]
+Method: sendMessage
+Params: {"parse_mode":null,"disable_notification":false,"disable_web_page_preview":false,"text":"Defined by a fall\r\n\r\nwe\u2019re often defined by our best and worst moments\u2026 almost equally\u2026. almost.\r\n\r\nhttp:\/\/157.230.233.236\/index.php\/2019\/09\/06\/defined-by-a-fall\/","chat_id":"@collinsnyamao"}
+--------------------------------
+Response: {"ok":false,"error_code":400,"description":"Bad Request: chat not found"}
+
+[2019-09-06 10:51:52]
+Method: sendPhoto
+Params: {"parse_mode":null,"disable_notification":false,"photo":"http:\/\/157.230.233.236\/wp-content\/uploads\/2019\/09\/1*646YQYQwIAVI5hFvgPaclg-2.jpeg","caption":"","chat_id":"@collinsnyamao"}
+--------------------------------
+Response: {"ok":false,"error_code":400,"description":"Bad Request: chat not found"}
+
+[2019-09-06 10:51:53]
+Method: sendMessage
+Params: {"parse_mode":null,"disable_notification":false,"disable_web_page_preview":false,"text":"Changing Culture: Shift Small Habits for Big Wins\r\n\r\nAfter working in different environments over the years, I\u2019m intrigued about how company culture affects the workplace. I\u2019m a big believer that a\u00a0company culture that breeds trust and cooperationin the workplace, will succeed. Alison Randel\u00a0writes about how companies can improve culture with small shifts to bad habits in the workplace. She begins by explaining that\u2026\r\n\r\nhttp:\/\/157.230.233.236\/index.php\/2019\/09\/06\/changing-culture-shift-small-habits-for-big-wins\/","chat_id":"@collinsnyamao"}
+--------------------------------
+Response: {"ok":false,"error_code":400,"description":"Bad Request: chat not found"}
+
